@@ -1,0 +1,68 @@
+County,mmr_rate,highlight
+Adams,0.929,Other PA counties
+Allegheny,0.941,Other PA counties
+Armstrong,0.951,Other PA counties
+Beaver,0.915,Other PA counties
+Bedford,0.953,Other PA counties
+Berks,0.945,Other PA counties
+Blair,0.92,Other PA counties
+Bradford,0.894,Other PA counties
+Bucks,0.943,Other PA counties
+Butler,0.943,Other PA counties
+Cambria,0.954,Other PA counties
+Cameron,0.806,"Lower coverage, no major outbreak"
+Carbon,0.955,Other PA counties
+Centre,0.944,Other PA counties
+Chester,0.945,Other PA counties
+Clarion,0.943,Other PA counties
+Clearfield,0.93,Other PA counties
+Clinton,0.931,Other PA counties
+Columbia,0.965,Other PA counties
+Crawford,0.924,Other PA counties
+Cumberland,0.951,Other PA counties
+Dauphin,0.868,"Lower coverage, no major outbreak"
+Delaware,0.943,Other PA counties
+Elk,0.948,Other PA counties
+Erie,0.941,Other PA counties
+Fayette,0.925,Other PA counties
+Forest,1,Other PA counties
+Franklin,0.933,Other PA counties
+Fulton,0.879,"Lower coverage, no major outbreak"
+Greene,0.923,Other PA counties
+Huntingdon,0.926,Other PA counties
+Indiana,0.93,Other PA counties
+Jefferson,0.937,Other PA counties
+Juniata,0.934,Other PA counties
+Lackawanna,0.967,Other PA counties
+Lancaster,0.885,Primary epicenter (Lancaster)
+Lawrence,0.942,Other PA counties
+Lebanon,0.932,Secondary hotspot (Lebanon)
+Lehigh,0.956,Other PA counties
+Luzerne,0.939,Other PA counties
+Lycoming,0.952,Other PA counties
+McKean,0.938,Other PA counties
+Mercer,0.927,Other PA counties
+Mifflin,0.923,Other PA counties
+Monroe,0.878,"Lower coverage, no major outbreak"
+Montgomery,0.953,Other PA counties
+Montour,0.974,Other PA counties
+Northampton,0.949,Other PA counties
+Northumberland,0.932,Other PA counties
+Perry,0.919,Other PA counties
+Philadelphia,0.947,Other PA counties
+Pike,0.883,"Lower coverage, no major outbreak"
+Potter,0.926,Other PA counties
+Schuylkill,0.954,Other PA counties
+Snyder,0.881,"Lower coverage, no major outbreak"
+Somerset,0.923,Other PA counties
+Sullivan,0.941,Other PA counties
+Susquehanna,0.923,Other PA counties
+Tioga,0.951,Other PA counties
+Union,0.94,Other PA counties
+Venango,0.941,Other PA counties
+Warren,0.964,Other PA counties
+Washington,0.956,Other PA counties
+Wayne,0.875,"Lower coverage, no major outbreak"
+Westmoreland,0.921,Other PA counties
+Wyoming,0.973,Other PA counties
+York,0.936,Other PA counties
