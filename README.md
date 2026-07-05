@@ -11,6 +11,11 @@ and documentation conventions as the 2026 cyclosporiasis outbreak project.
 several years, and how does that decline relate to 2026 measles case counts
 across states?
 
+**AI Assistance:** Portions of this project's R code, data-cleaning logic,
+and documentation were drafted with assistance from Claude (Anthropic).
+All research questions, methodological decisions, and interpretation of
+findings are my own.
+
 ---
 
 ## Project Structure
